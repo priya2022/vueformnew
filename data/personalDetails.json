@@ -1,0 +1,32 @@
+{
+  "person": [
+    {
+      "name": "Priyadarshini",
+      "gender": {
+        "name": "Female"
+      },
+      "country": {
+        "name": "India"
+      },
+      "state": {
+        "name": "TamilNadu"
+      },
+      "phone": 9442541109,
+      "id": 1
+    },
+    {
+      "name": "Aravind",
+      "gender": {
+        "name": "Male"
+      },
+      "country": {
+        "name": "India"
+      },
+      "state": {
+        "name": "Meghalaya"
+      },
+      "phone": 2888999990,
+      "id": 2
+    }
+  ]
+}
